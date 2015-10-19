@@ -1,0 +1,60 @@
+    html {
+      height: 100%;
+    }
+    body {
+       background-color:#f5faf6;
+       width: 100%;
+       margin: 0 auto;
+       padding-top: 5px;
+       height: 100%;
+    }
+
+    header {
+        width:100%;
+        background-color:#4caf50;
+        color:white;
+        text-align:center;
+        padding:5px;
+        font-size:20px;
+
+    }
+    nav {
+        line-height:30px;
+        background-color:#eeeeee;
+        min-height:100%;
+        width:125px;
+        display: inline-block;
+        vertical-align: top;
+        padding:0px;
+        font-size: 18px;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: black;
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:#eeeeee;
+      font-size: 18px;
+      min-height: 100%;
+      padding: 8px;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 100%;
+        background-color:#333333;
+        color:white;
+        text-align:center;
+        padding:5px;
+        display: block;
+    }
